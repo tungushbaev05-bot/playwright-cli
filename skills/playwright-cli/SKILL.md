@@ -276,3 +276,11 @@ playwright-cli close
 * **Test generation** [references/test-generation.md](references/test-generation.md)
 * **Tracing** [references/tracing.md](references/tracing.md)
 * **Video recording** [references/video-recording.md](references/video-recording.md)
+---
+name: dev
+description: Development workflows for the playwright-cli repository. Use when the user asks about rolling dependencies, releasing, or other repo maintenance tasks.
+---
+
+# Development skills
+
+* **Rolling Playwright dependency** [roll.md](roll.md)
